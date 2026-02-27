@@ -1,8 +1,6 @@
 module github.com/post-quantumqoin/go-jsonrpc
 
-go 1.24
-
-toolchain go1.24.11
+go 1.18
 
 require (
 	github.com/google/uuid v1.1.1
